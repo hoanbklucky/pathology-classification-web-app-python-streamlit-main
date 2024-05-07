@@ -1,4 +1,4 @@
-# pneumonia-classification-web-app-python-streamlit
+# pathology-classification-web-app-python-streamlit
 
 
 <p align="center">
