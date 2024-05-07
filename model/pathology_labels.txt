@@ -1,0 +1,3 @@
+0 High squamous intra-epithelial lesion
+1 Low squamous intra-epithelial lesion
+2 Negative for Intraepithelial malignancy
